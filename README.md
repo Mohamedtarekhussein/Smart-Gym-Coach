@@ -35,8 +35,3 @@ Streamlit is a popular open-source framework for building interactive web system
 ? Integration with machine learning libraries: Streamlit seamlessly integrates  with popular machine learning libraries, such as TensorFlow, PyTorch, and scikit learn. This allows data scientists to build end-to-end machine learning pipelines  within Streamlit systems.
  Performance Analysis:
 
-
-
-URL : https://yoga-posture-detection-and-correction-using-yolov8.streamlit.app/
-
-
